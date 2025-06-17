@@ -1,0 +1,8 @@
+{
+  "parent": "glaciers_additions:custom/sesbianlex",
+  "textures": {
+    "all": "glaciers_additions:blocks/sesbianlex",
+    "particle": "glaciers_additions:blocks/sesbianlex",
+    "0": "glaciers_additions:blocks/sesbianlex"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "old_bloke_banjo_tlj": {
+    "category": "record",
+    "subtitle": "subtitles.old_bloke_banjo_tlj",
+    "sounds": [
+      {
+        "name": "glaciers_additions:old_bloke_pickin_on_a_banjo",
+        "stream": true
+      }
+    ]
+  }
+}

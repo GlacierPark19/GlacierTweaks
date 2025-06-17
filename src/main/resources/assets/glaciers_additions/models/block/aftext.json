@@ -1,0 +1,8 @@
+{
+  "parent": "glaciers_additions:custom/adlerfalke_text",
+  "textures": {
+    "all": "glaciers_additions:blocks/adler_falke_text",
+    "particle": "glaciers_additions:blocks/adler_falke_text",
+    "0": "glaciers_additions:blocks/adler_falke_text"
+  }
+}

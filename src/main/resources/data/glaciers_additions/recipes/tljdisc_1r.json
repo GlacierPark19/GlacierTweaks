@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:kelp"
+    },
+    "2": {
+      "item": "minecraft:kelp"
+    },
+    "4": {
+      "item": "glaciers_additions:blank_disc"
+    },
+    "6": {
+      "item": "minecraft:kelp"
+    },
+    "8": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "result": {
+    "item": "glaciers_additions:longest_johns",
+    "count": 1
+  }
+}
